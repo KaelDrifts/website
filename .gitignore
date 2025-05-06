@@ -9,6 +9,7 @@
 .idea
 .temp
 .vite_opt_cache
+//uj
 .vscode
 /coverage
 website/src/client/shared.ts
